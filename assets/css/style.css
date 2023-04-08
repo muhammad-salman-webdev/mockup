@@ -755,4 +755,21 @@ footer {
   .video-container .videos-list li {
     min-width: auto;
   }
+  .hero-section img {
+    aspect-ratio: 1/1.2;
+  }
+  .video-title {
+    justify-content: center;
+    margin-top: -60px;
+  }
+  .video-title h1 {
+    text-align: center;
+    margin: 0 0 15px 0;
+  }
+  .social-hub-slider {
+    padding: 20px;
+  }
+  .social-hub-items-container {
+    padding: 20px;
+  }
 }
